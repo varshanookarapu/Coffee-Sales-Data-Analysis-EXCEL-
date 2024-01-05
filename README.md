@@ -38,3 +38,5 @@ Implement slicers for easy filtering and interactive analysis, providing a user-
 
 **Making Connections in the Dashboard:**
 Establish connections between different elements of the dashboard to ensure seamless interaction and a cohesive analytical experience.
+
+**Project Credits** : Mo Chen (https://www.youtube.com/watch?v=m13o5aqeCbM)
