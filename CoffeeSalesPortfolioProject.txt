@@ -1,0 +1,32 @@
+Data Analysis
+Coffee Sales Analysis - Port folio Project
+
+Excel Functions:
+Xlookup
+Vlookup
+https://www.careerprinciples.com/resources/xlookup-vs-vlookup-key-differences#:~:text=commission%20for%202023.-,Conclusion,of%20the%20lookup%20value%20column.
+
+Conditionals : IF
+
+Index
+
+Formatting Date to dd-mmm-yy , Size to kilograms, Unit Price and Sales to currency
+
+Check for duplicates
+
+Changing Table Design
+
+Creating a pivot table for Cofee Sales over time 
+
+Inserting Line Chart
+
+Inserting Orders Timeline
+
+Inserting Barcharts ( Top 5 customers ) and  Sales in each country
+
+Inserting Slicers
+
+Making connections in the Dashboard.
+
+
+
